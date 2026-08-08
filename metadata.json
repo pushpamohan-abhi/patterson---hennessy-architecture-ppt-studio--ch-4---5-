@@ -1,0 +1,7 @@
+{
+  "name": "Patterson & Hennessy Architecture PPT Studio (Ch 4 & 5)",
+  "description": "Interactive presentation generator and study companion for Computer Organization and Design (Chapters 4 & 5) with live slide preview, interactive datapath/cache simulators, AI explanations, and PPTX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
